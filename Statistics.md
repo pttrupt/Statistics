@@ -68,9 +68,9 @@ Any large collection of objects and individuals.
 
 For example: 
 
-- Population Mean   \mu  
-- Population proportion   p 
-- Population Variance , ...
+- Population Mean  <img src="https://render.githubusercontent.com/render/math?math=\mu">  
+- Population proportion  <img src="https://render.githubusercontent.com/render/math?math=p">
+- Population Variance <img src="https://render.githubusercontent.com/render/math?math=\sigma^2">, ...
 
 The issue is that almost all of the time, we don't -- or can't -- know the real value of a population parameter. The best we can do is estimate the parameter! This is where samples and statistics come in to play. 
 
@@ -86,9 +86,9 @@ Representative group drawn from the population.
 
 For example: 
 
-- Sample Mean  $ \overline{X} $
-- Sample proportion  $ \widehat{p} $ 
-- Sample Variance  $ \sigma $, ...
+- Sample Mean  <img src="https://render.githubusercontent.com/render/math?math= \overline{X}">
+- Sample proportion <img src="https://render.githubusercontent.com/render/math?math=\widehat{p}">
+- Sample Variance  <img src="https://render.githubusercontent.com/render/math?math= s^2"> ...
 
 Samples are manageable in size, so that we can determine the actual value of any statistics and use the known value of the sample statistics to learn about the unknown value of the population parameter.
 
@@ -205,15 +205,16 @@ $$
 
    * Symmetric :
 
-     <img src="C:\Users\patel\OneDrive\Pictures\symmetric.png" style="zoom:60%;" />
+     ![symmetric](https://user-images.githubusercontent.com/69855697/153704675-1d1f6577-1dc7-4f2c-a327-c53cfbd55303.png)
+,
 
    * Left Symmetric :
-
-   <img src="C:\Users\patel\OneDrive\Pictures\left skewed .png" alt="left skewed" style="zoom:60%;" />
+   
+     ![left skewed ](https://user-images.githubusercontent.com/69855697/153704671-c28a3415-35a4-41b9-91ac-4f534f52cbcc.png)
 
    * Right Symmetric :
-
-   <img src="C:\Users\patel\OneDrive\Pictures\right skewed .png" style="zoom:60%;" />
+   
+     ![right skewed ](https://user-images.githubusercontent.com/69855697/153704673-f4c3b789-b33e-47e3-9eb0-e719a3779f2b.png)
 
    
 
