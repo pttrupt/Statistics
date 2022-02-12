@@ -68,8 +68,8 @@ Any large collection of objects and individuals.
 
 For example: 
 
-- Population Mean  $ \mu $ 
-- Population proportion  $ p $
+- Population Mean   \mu  
+- Population proportion   p 
 - Population Variance , ...
 
 The issue is that almost all of the time, we don't -- or can't -- know the real value of a population parameter. The best we can do is estimate the parameter! This is where samples and statistics come in to play. 
